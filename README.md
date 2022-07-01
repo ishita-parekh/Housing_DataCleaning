@@ -2,6 +2,7 @@
 [1] Cleaned Housing Data 
 
 [2] Updated the following parameters:
+
       Date Format
       
       Property Address rows that had NULL values
